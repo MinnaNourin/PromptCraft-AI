@@ -9,6 +9,8 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+## 🖥️ Screenshot
+
 
 ## 🌐 Live Demo
 👉 **[Try it here](https://promptcraft-ai-kgwbjnn4t8iuq2oztfvi6m.streamlit.app)**
