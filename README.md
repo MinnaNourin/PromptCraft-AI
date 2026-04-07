@@ -10,6 +10,8 @@
 
 ---
 ## 🖥️ Screenshot
+https://github.com/MinnaNourin/PromptCraft-AI/blob/main/Screenshot%202026-04-07%20101527.png
+
 
 
 ## 🌐 Live Demo
