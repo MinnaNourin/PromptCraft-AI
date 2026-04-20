@@ -1,6 +1,6 @@
-# PromptCraft AI ✦
+# PromptCraft AI – Prompt Optimization Tool for LLMs (Llama 3.1, Groq API)
 
-> Transform weak prompts into powerful ones instantly using AI
+>🚀 AI-powered system that converts weak prompts into optimized, high-performance prompts for better LLM outputs.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)
@@ -18,7 +18,6 @@
 👉 **[Try it here](https://promptcraft-ai-kgwbjnn4t8iuq2oztfvi6m.streamlit.app)**
 
 ---
-# ✦ PromptCraft AI
 
 ## 🚀 AI That Turns Weak Prompts Into Powerful Results
 
@@ -84,6 +83,12 @@ User Input → Intent Analysis → Prompt Restructuring → LLM Optimization →
 | Llama 3.1 | Language model |
 
 ---
+## Core Capabilities
+
+- Prompt Engineering → Transform vague inputs into structured prompts  
+- LLM Integration → Llama 3.1 via Groq API  
+- AI Application Development → Streamlit-based UI  
+- Input Optimization → Improve clarity, structure, and intent  
 
 ## 🚀 How to Run Locally
 
