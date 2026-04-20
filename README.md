@@ -10,9 +10,8 @@
 
 ---
 ## 🖥️ Screenshot
-![PromptCraft AI](app sc.png)
-![PromptCraft AI](app(1) sc.png)
-
+![PromptCraft AI](app.png)
+![PromptCraft AI](app1.png)
 
 
 ## 🌐 Live Demo
