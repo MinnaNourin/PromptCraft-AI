@@ -19,30 +19,60 @@
 👉 **[Try it here](https://promptcraft-ai-kgwbjnn4t8iuq2oztfvi6m.streamlit.app)**
 
 ---
+# ✦ PromptCraft AI
 
-## 📌 About
-PromptCraft AI is an AI-powered prompt improver 
-built as a practical project after completing the 
-IBM SkillsBuild "Craft Precise Prompts for AI Models" 
-certification.
+## 🚀 AI That Turns Weak Prompts Into Powerful Results
 
-It takes your rough, vague prompt and transforms it 
-into a clear, precise and powerful one — instantly!
+PromptCraft AI is an AI-powered prompt optimization tool that transforms vague or unclear user inputs into structured, high-quality prompts that produce better responses from large language models.
+
+It is built using Python, Streamlit, and the Groq API with the Llama 3.1 model.
 
 ---
 
-## ✨ Features
-- Takes any rough prompt as input
-- Improves clarity, structure and precision
-- Explains what changed and why
-- Guides anyone with simple 3 step instructions
-- Supports 6 prompt types:
-  - General
-  - Creative
-  - Technical
-  - Formal
-  - Academic
-  - Marketing
+## 🎯 Problem
+
+Large language models are highly sensitive to input quality.
+
+Poorly written prompts often lead to:
+- Generic responses  
+- Misinterpreted intent  
+- Inconsistent outputs  
+- Reduced usefulness of AI tools  
+
+---
+
+## 💡 Solution
+
+PromptCraft AI acts as a **prompt intelligence layer** that refines user input before sending it to the model.
+
+It transforms:
+
+> “write about AI”
+
+into:
+
+> “Write a structured, beginner-friendly explanation of Artificial Intelligence covering definitions, applications, and key challenges.”
+
+---
+
+## ⚡ Key Features
+
+- Converts weak prompts into optimized prompts  
+- Improves clarity, structure, and intent  
+- Supports multiple prompt types:
+  - General  
+  - Creative  
+  - Technical  
+  - Academic  
+  - Formal  
+  - Marketing  
+- Explains improvements made to prompts  
+
+---
+
+## 🧠 How It Works
+
+User Input → Intent Analysis → Prompt Restructuring → LLM Optimization → Improved Prompt Outpu
 
 ---
 
