@@ -10,8 +10,8 @@
 
 ---
 ## 🖥️ Screenshot
-![PromptCraft AI](Screenshot%202026-04-07%20101527.png)
-![PromptCraft AI](Screenshot%202026-04-07%20101633.png)
+![PromptCraft AI](app sc.png)
+![PromptCraft AI](app(1) sc.png)
 
 
 
